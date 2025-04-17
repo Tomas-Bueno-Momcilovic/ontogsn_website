@@ -1,7 +1,11 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Development"
     url: /development/
+  - title: "Tutorial"
+    url: /tutorial/
   - title: "News"
     url: /blog/
   - title: "Repo"

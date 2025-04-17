@@ -7,7 +7,7 @@ sidebar:
 ---
 
 ## Methodology
-Every element of *OntoGSN* is sourced directly from the **GSN Community Standard v3**.  
+Every element of *OntoGSN* is sourced directly from the [**GSN Community Standard v3**](https://scsc.uk/gsn?page=gsn%202standard) ([link to the PDF](https://scsc.uk/r141C:1)).  
 This inevitably involves some degree of interpretation. Two activities were performed in many iterative cycles:
 
 1. **Taxonomy (TBox)** – each sentence of the standard is parsed and mapped to OWL classes or properties, expressed as semantic triples (subject‑predicate‑object).  
