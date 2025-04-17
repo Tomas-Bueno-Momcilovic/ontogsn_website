@@ -11,7 +11,7 @@ Every element of *OntoGSN* is sourced directly from the **GSN Community Standar
 This inevitably involves some degree of interpretation. Two activities were performed in many iterative cycles:
 
 1. **Taxonomy (TBox)** – each sentence of the standard is parsed and mapped to OWL classes or properties, expressed as semantic triples (subject‑predicate‑object).  
-2. **Rules (RBox)** – sentences that impose conditions or restrictions are encoded as logical statements (SWRL rules and OWL axioms).
+2. **Rules** – sentences that impose conditions or restrictions are encoded as logical statements (SWRL rules and OWL axioms).
 
 ## Technical implementation
 The ontology is authored in [Stanford Protégé 5.6.3](https://protege.stanford.edu/) and conforms to the [OWL 2](https://www.w3.org/TR/owl2-overview/) specification.  
