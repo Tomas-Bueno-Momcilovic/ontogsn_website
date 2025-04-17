@@ -11,3 +11,4 @@ author:
 plugins:
   - jekyll-feed 
   - jekyll-scholar
+  - jekyll-include-cache
