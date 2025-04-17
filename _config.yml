@@ -1,0 +1,13 @@
+theme: minimal-mistakes-jekyll
+
+title: "OntoGSN"
+description: "Your project tagline goes here"
+url: "https://Tomas‑Bueno‑Momcilovic.github.io"
+baseurl: "/ontogsn_website"
+
+author:
+  name: "Tomas Bueno Momcilovic"
+
+plugins:
+  - jekyll-feed 
+  - jekyll-scholar
